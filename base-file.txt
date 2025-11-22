@@ -1,1 +1,1 @@
-"обновление с main ветки" 
+"TEXT FROM MAIN BRANCH" 
