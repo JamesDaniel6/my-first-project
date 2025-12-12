@@ -4,3 +4,5 @@
 "    return a * b" 
 "def calculate_divide(a, b):" 
 "    return a / 0  # ОШИБКА: деление на ноль!" 
+"def calculate_power(a, b):" 
+"    return a ** b" 
