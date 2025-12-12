@@ -2,3 +2,5 @@
 "    return a + b" 
 "def calculate_multiply(a, b):" 
 "    return a * b" 
+"def calculate_divide(a, b):" 
+"    return a / 0  # ОШИБКА: деление на ноль!" 
